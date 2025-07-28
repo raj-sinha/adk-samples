@@ -6,15 +6,10 @@ The Machine Learning Engineering Agent is an approach to building Machine Learni
 
 #### Performance of MLE agents on [MLE-Bench-Lite](https://github.com/openai/mle-bench/tree/main) datasets.
 
-| MLE Agents | Base LLM | Gold Medals | Any Medals |
-| --- | --- | --- | --- |
-| [ **MLE-STAR** ](https://www.arxiv.org/pdf/2506.15692) | **Gemini-2.5-Pro** | **36.4%** | **63.6%** |
-| [ML-Master](https://arxiv.org/pdf/2506.16499) | DeepSeek-R1 | - | 48.5% |
-| [R&D-Agent](https://arxiv.org/pdf/2505.14738) | o1-preview | - | 48.2% |
-| [AIRA](https://arxiv.org/pdf/2507.02554) | o3 | - | 47.3% |
-| [AIDE](https://arxiv.org/pdf/2502.13138) | o1-preview | 20.7% | 36.6% |
-| [OpenHands](https://arxiv.org/pdf/2407.16741) | GPT-4o | 6.1% | 12.1% |
-| [MLAB](https://arxiv.org/pdf/2310.03302) | GPT-4o | 1.5% | 6.1% |
+| MLE Agents | Base LLM | Any Medals| Gold Medals | Silver Medals | Bronze Medals |
+| --- | --- | --- | --- | --- | --- |
+| [ **MLE-STAR** ](https://www.arxiv.org/pdf/2506.15692) | **Gemini-2.5-Pro** | **63.6%** | **36.4%** | **21.2%** | 6.1% |
+| [ **MLE-STAR** ](https://www.arxiv.org/pdf/2506.15692) | **Gemini-2.5-Flash** | 43.9% | 30.3% | 4.5% | **9.1%** |
 ---
 
 <br>
